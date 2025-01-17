@@ -1,6 +1,7 @@
-# These are supported funding model platforms
-
-github: [ajhalili2006]
+github:
+- ajhalili2006
+- lorebooks-wiki
+open_collective: lorebooks-wiki
 custom:
+- https://hcb.hackclub.com/donations/start/lorebooks-wiki
 - https://lorebooks.wiki/donate
-- https://sponsors.andreijiroh.dev/?ref=recaptime-dev
